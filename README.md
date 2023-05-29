@@ -32,9 +32,9 @@ The facilitator you have a tech in with will probably be different to your Trell
 
 | Name        | Facilitator (Phase 1)   | Facilitator (Phase 2)   | 
 | ----------- | --------------          | ----------------------- | 
-|   Amanda    |  Kelly                  |                         |
-|   Lauren    |  Emily                  |                         | 
-|   Chris     |  Yosan                  |                         | 
+|   Amanda    |  Kelly                  |   Shrena                |
+|   Lauren    |  Emily                  |   Shrena                | 
+|   Chris     |  Yosan                  |   Josh                     | 
 |   Ektaj     |  Yosan                  |                         |
 |   Callum    |  Kelly                  |                         | 
 |   Johnathan |  Josh                   |                         | 
