@@ -1,6 +1,6 @@
 # :computer: Tech ins :computer:
 
-***After reading through this information, please schedule in a day and time with your assigned facilitator (see the table below) for your first tech in.***
+***After reading through this information, please schedule in a day and time with your assigned facilitator (see the table below) for your tech in.***
 
 ## What are tech ins?
 
