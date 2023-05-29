@@ -34,18 +34,18 @@ The facilitator you have a tech in with will probably be different to your Trell
 | ----------- | --------------          | ----------------------- | 
 |   Amanda    |  Kelly                  |   Shrena                |
 |   Lauren    |  Emily                  |   Shrena                | 
-|   Chris     |  Yosan                  |   Josh                     | 
-|   Ektaj     |  Yosan                  |                         |
-|   Callum    |  Kelly                  |                         | 
-|   Johnathan |  Josh                   |                         | 
-|   Jackson   |  Shrena                 |                         | 
-|   Brindha   |  Kelly                  |                         |  
-|   Tayla     |  Emily                  |                         | 
-|   Gemma     |  Shrena                 |                         | 
-|   James     |  Josh                   |                         | 
-|   Kayne     |  Josh                   |                         | 
-|   Oscar     |  Emily                  |                         | 
-|   Israel    |  Shrena                 |                         |
-|   Gaby      |  Shrena                 |                         | 
-|   Jesse     |  Josh                   |                         |  
-|   Vera      |  Yosan                  |                         | 
+|   Chris     |  Yosan                  |   Josh                  | 
+|   Ektaj     |  Yosan                  |  Josh                   |
+|   Callum    |  Kelly                  |  Shrena                 | 
+|   Johnathan |  Josh                   |    Emily                | 
+|   Jackson   |  Shrena                 |    Yosan                | 
+|   Brindha   |  Kelly                  |    Shrena               |  
+|   Tayla     |  Emily                  |    Yosan                | 
+|   Gemma     |  Shrena                 |    Josh                 | 
+|   James     |  Josh                   |    Yosan                | 
+|   Kayne     |  Josh                   |    Emily                | 
+|   Oscar     |  Emily                  |    Shrena               | 
+|   Israel    |  Shrena                 |    Josh                 |
+|   Gaby      |  Shrena                 |    Josh                 | 
+|   Jesse     |  Josh                   |    Emily                |  
+|   Vera      |  Yosan                  |    Emily                | 
